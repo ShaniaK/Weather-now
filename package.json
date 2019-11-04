@@ -1,0 +1,19 @@
+{
+  "name": "weather-now",
+  "version": "1.0.0",
+  "description": "web app that gives the weather for cities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaniaK/Weather-now.git"
+  },
+  "author": "Shania Ward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaniaK/Weather-now/issues"
+  },
+  "homepage": "https://github.com/ShaniaK/Weather-now#readme"
+}
