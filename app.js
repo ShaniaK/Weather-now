@@ -21,8 +21,9 @@ app.get('/', function (req, res) {
   res.render('home.ejs')
 });
  
-app.post('/whatever-we-want',function(req,res){
-  console.log(req);
+app.post('/',function(req,res){
+  console.log(req,body,city);
+  res.end();
 });
 
 
